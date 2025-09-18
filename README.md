@@ -52,3 +52,5 @@ We believe this technology can foster stronger community bonds, enable new forms
 
 ### Long-term Vision
 Transform into a comprehensive decentralized social funding platform that becomes the go-to solution for personal goal achievement, community support, and transparent crowdfunding across various use cases including education, entrepreneurship, creativity, and social impact projects.
+
+Transaction Hash: 0x08ae315acbabaca934cbea8194dbe87b8630b0834fc4859f151c2487035f9578
